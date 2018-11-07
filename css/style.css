@@ -1,0 +1,222 @@
+@charset="utf-8"
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  width: 1170;
+     margin: 0 auto;
+     background-color: #edeef0;
+}
+
+header {
+  width: 1170; 
+  max-width: 7000px;
+  height: 42px;
+  margin: 0 auto;
+  background-color: #5181b8;
+}
+
+.Vk-img {
+  padding-right: 5px;
+  padding-top: 5px;
+}
+
+.search {
+  padding-top: 9px;
+}
+
+.side-bar {
+  width: 149px;
+  height: 255px;
+  background-color: #edeef0;
+}
+
+.sign {
+  margin: 0;
+  padding: 0;
+  padding-left: 63px;
+  background-color: #5181b8;
+  padding-top: 10px;
+  }
+
+.io {
+  padding-left: 78px;
+  padding-top:  17px;
+}
+
+.bage-body {
+  width: 909px;
+  height: 835px;
+  background-color: #ffffff;
+}
+
+.side-bar a {
+  color: #aaa;
+  padding-top:  5px;
+}
+
+.side-bar a:hover{
+  text-decoration: none;
+}
+
+.side-bar >form {
+  padding-top: 50px;
+}
+
+input[type="text"], input[type="password"] {
+  width: 160px;
+  height: 40px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border-radius: 7px;
+}
+
+.dws-submit {
+  padding: 13px 40px;
+  margin: 5px 0 20px 6;
+  font-size: 10px;
+  color: #fff;
+  background-color: #2ca8c6;
+  border: none;
+  border-bottom: 4px solid #6ee9fd;
+  border-radius: 10px;
+}
+
+.dws-submit:hover{
+  transition: all 0.9s;
+  background: #fff;
+  color: #2c536c;
+}
+
+.user {
+  padding-top:  3px;
+  
+}
+
+.useri {
+  padding-top: 5px;
+}
+
+.bage {
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  padding-top:  20px;
+}
+
+.text {
+  height: 30px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.nubex {
+  padding-left: 100px;
+  color: #fff;
+  user-select: none;
+  text-decoration: none; 
+  outline: none;
+  background-color: #fa8e47; 
+  padding: 1em 2em; 
+  border-radius: 10px;
+  }
+  a.nubex:active {
+  background-color: #ee6206; 
+  a.nubex:hover {
+  background-color: #f97f2e; 
+  }
+}
+
+.download {
+  padding-left: 295px;
+  padding-top: 70px;
+}
+
+.center {
+  padding-left: 130px;
+  padding-top: 30px;
+}
+
+.mobile {
+  padding-top: 5px;
+  padding-left: 158px;
+  width: 172px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #84b851;
+}
+
+.mobiles {
+  padding-left: 53px;
+  width: 158px;
+  height: 28px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #817c7c;
+}
+
+.mobiled {
+  padding-left: 73px;
+  width: 121px;
+  height: 29px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #5181b8;
+}
+
+.products {
+  padding-left: 415px;
+  font-size: 12px;
+}
+
+.cx {
+  padding-top: 56px;
+}
+
+.xc {
+  padding-top: 46px;
+}
+
+.textt {
+  padding-left: 33px;
+}
+
+.footer {
+  padding-top: 25px;
+  width: 909px;
+  height: 73px;
+  background-color: #5181b8;
+}
+
+.footerr {
+  padding-left: 26px;
+  color: #fff;
+}
