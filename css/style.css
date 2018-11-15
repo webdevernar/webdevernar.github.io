@@ -27,6 +27,7 @@ header {
 }
 
 .side-bar {
+  padding-left: 10px;
   width: 149px;
   height: 255px;
   background-color: #edeef0;
